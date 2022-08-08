@@ -7,6 +7,9 @@ public class Test {
 	private void empName() {
 		
 		System.out.println("Employee Name:Arunkumar");
+		System.out.println("Employee Name:Arunkumar");
+		System.out.println("Employee Name:Arunkumar");
+		System.out.println("Employee Name:Arunkumar");
 		
 
 	}
