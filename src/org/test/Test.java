@@ -1,5 +1,5 @@
-package org.test;
 
+package org.test;
 public class Test {
 	
 	
@@ -7,8 +7,9 @@ public class Test {
 	private void empName() {
 		
 		System.out.println("Employee Name:Arunkumar");
-		
-
+		System.out.println("Employee Name:Arunkumar");
+		System.out.println("Employee Name:Arunkumar");
+		System.out.println("Employee Name:Arunkumar");
 	}
 	
 	private void empId() {
