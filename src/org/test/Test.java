@@ -7,13 +7,13 @@ public class Test {
 	private void empName() {
 		
 		System.out.println("Employee Name:Arunkumar");
-		System.out.println("Employee Name:Arunkumar");
-		System.out.println("Employee Name:Arunkumar");
-		System.out.println("Employee Name:Arunkumar");
+	
 	}
 	
 	private void empId() {
 		
+		System.out.println("Employee Id:777");
+		System.out.println("Employee Id:777");
 		System.out.println("Employee Id:777");
 		
 
