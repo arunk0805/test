@@ -1,5 +1,5 @@
-package org.test;
 
+package org.test;
 public class Test {
 	
 	
@@ -10,8 +10,11 @@ public class Test {
 		System.out.println("Employee Name:Arunkumar");
 		System.out.println("Employee Name:Arunkumar");
 		System.out.println("Employee Name:Arunkumar");
+<<<<<<< HEAD
 		
 
+=======
+>>>>>>> d99073b58ca3c9183aeddd2ac67c241752cc39c2
 	}
 	
 	private void empId() {
